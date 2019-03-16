@@ -1,0 +1,20 @@
+/*@font-face {
+font-family: 'Kotori Rose Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Kotori Rose Regular'), url('KotoriRose-Regular.woff') format('woff');
+}*/
+
+
+@font-face {
+font-family: 'Kotori Rose Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Kotori Rose Bold'), url('KotoriRose-Bold.woff') format('woff');
+}
+
+h1{
+	font-family: 'Kotori Rose Bold';
+	font-weight: 200;
+	color: #1CE7C5;
+}
