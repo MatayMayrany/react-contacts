@@ -1,6 +1,6 @@
+### Responsive contact list made using react 
 
 This project was bootstrapped with Create React App.
-
 
 ## Available Scripts after cloning repo
 In the project directory, you can run:
